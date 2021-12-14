@@ -1,4 +1,4 @@
-- 👋 Olá. SOu Romário, analista de sistemas, desenvolvedor de software, testes de software e QA
+- 👋 Olá. Sou Romário, analista de sistemas, desenvolvedor de software, testes de software e QA
 - 👀 Sou flexivel, gosto de aprender de tudo um pouco, mas tenho melhor experticies em Desenvolvimento com Java e Angular, Qualidade de Software, Teste de Software com:
 Java, Ruby, Cucumber, Capybara, Selenium(WebDriver), Gherkin.
 Automação, teste funcional, Stress, Carga, integração.
